@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+}
+
+input,
+button {
+  padding: 10px;
+  margin: 5px;
+}
+
+#or {
+  text-align: center;
+}
